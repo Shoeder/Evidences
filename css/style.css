@@ -1,0 +1,44 @@
+.figure {
+    background-color: lightgrey;
+    border-radius: 10px;
+    position: absolute;
+    border: 1px solid rgba(179, 178, 178, 0.89);
+	overflow: visible;
+	width: 280px;
+	height: 330px;
+	left: 500px;
+	top: 100px;
+    padding: 20px;
+    box-shadow: 0px 2px 8px #888888;
+}
+
+.textbox {
+    width: 99%;
+    padding: 12px 13px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1.5px solid rgb(95, 91, 91);
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.font {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.btn {
+    background-color: #008cc4;
+    color: white;
+    font-size: 15px;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 80%;
+    position: absolute;
+    height: 50px;
+    left: 33px;
+}
